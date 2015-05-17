@@ -1,0 +1,12 @@
+{
+  "categories" : [
+    "Utilities"
+  ],
+  "displayName" : "Use Spotbunny",
+  "name" : "spotbunny",
+  "description" : "Lolbunny wrapper for spotlight",
+  "examples" : [
+    "/diff",
+    "/tbgs react"
+  ]
+}
